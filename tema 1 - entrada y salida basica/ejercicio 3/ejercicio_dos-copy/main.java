@@ -24,6 +24,6 @@ public class main
         
         double resultado = numero + numero_Dos;
         
-        System.out.printf("El resultado es %.2f%n", resultado);        
+        System.out.printf("El resultado es %.2f%n", resultado);      // lo interesante es que trunca, a tener en cuenta  
     }
 }
