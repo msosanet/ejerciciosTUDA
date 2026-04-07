@@ -1,0 +1,1 @@
+pedir una cantidad de segundos y calcular las horas los minutos y segundos restantes
