@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=main
+comment0.text=\r\n\ Pide\ la\ ciudad\ y\ la\ provincia\ de\ donde\ es\ y\ da\ un\ mensaje.\ E1\ -\ T1\r\n\ @author\ msosa\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

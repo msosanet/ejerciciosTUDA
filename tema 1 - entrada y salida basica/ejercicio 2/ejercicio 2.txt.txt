@@ -1,0 +1,4 @@
+Pedir un número entero y mostrar:
+a. su doble
+b. su triple
+c. su mitad en formato decimal

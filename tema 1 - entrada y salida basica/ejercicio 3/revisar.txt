@@ -1,0 +1,1 @@
+la idea es que no frene el programa, agregar eso, que se agreguen dos numeros pero quede esperando hasta el break.

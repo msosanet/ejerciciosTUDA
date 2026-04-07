@@ -1,0 +1,2 @@
+Solicitar al usuario su ciudad y provincia, y mostrar el siguiente texto:
+Usted vive en [ciudad], [provincia].
