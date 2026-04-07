@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ejercicio2tp4
+comment0.text=\r\n\ Escribir\ un\ programa\ que\ pida\ dos\ n\u00FAmeros\ enteros\ distintos\ y\ muestre\ cu\u00E1l\ es\ el\r\nmayor.\r\n\ \r\n\ @author\ msosa\ \r\n\ \r\n
+comment1.params=arsg
+comment1.target=void\ main(java.lang.String[])
+numComments=2
